@@ -9,7 +9,7 @@
 
 ### Project Description
 
-This is an introduction to DataCamp projects. A DataCamp project will allow you to practice and apply the skills you've learned in the DataCamp courses. In each project you will carry out an end-to-end analysis, on a real-world task, using real-world tools and workflows. In this gentle introduction to DataCamp projects, we will walk you through the projects interface and you will learn how to work with Jupyter notebooks: an open-source web application that is great for interactive data analysis.
+This is an introduction to DataCamp projects. A DataCamp project allow you to practice and apply the skills you've learned in the DataCamp courses. In each project you carry out an end-to-end analysis, on a real-world task, using real-world tools and workflows. In this gentle introduction to DataCamp projects, I walked through the projects interface and I learned how to work with Jupyter notebooks: an open-source web application that is great for interactive data analysis.
 
 ## Dr. Semmelweis and the discovery of handwashing
 
